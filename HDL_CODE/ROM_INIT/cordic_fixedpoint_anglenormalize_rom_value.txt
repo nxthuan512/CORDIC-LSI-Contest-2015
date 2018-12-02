@@ -1,0 +1,9 @@
+// Store the information used to recover the sine/cosine values 
+0000
+0100
+1110
+1111
+0101
+0001
+1011
+1010

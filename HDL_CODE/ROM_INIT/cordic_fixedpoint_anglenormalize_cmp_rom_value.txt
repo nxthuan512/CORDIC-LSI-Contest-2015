@@ -1,0 +1,9 @@
+// Store the information used to reduce the range of angle 
+168000					//45
+e98000					//-45
+d30000					//-90
+bc8000					//-135
+a60000					//-180
+5a0000					//180
+438000					//135
+2d0000					//90
